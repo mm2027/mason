@@ -5,9 +5,11 @@
 
 This is for programming
 
-The school is Walpole high School'
+The school is Walpole High School'
 
 Student
 
 ### Coede.org Gamelab
 [Robot Face] https://github.com/mm2027/Robot/tree/Play
+
+[Caption Scences] https://studio.code.org/projects/gamelab/UCoNqMH44s7EvHvrgHZhANAUE9TRbf-QycO1poYFNfA
