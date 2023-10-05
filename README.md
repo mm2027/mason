@@ -2,12 +2,15 @@
 
 
 # mason
+My name is Mason
 
-This is for programming
+I'm in programming
 
-The school is Walpole High School'
+Learning how to code
 
-Student
+Student at Walpole High School
+
+
 
 ### Coede.org Gamelab
 [Robot Face] https://github.com/mm2027/Robot/tree/Play
