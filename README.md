@@ -27,4 +27,8 @@ In this project, my partner and I made a birthday card that when you press space
 
 [side scroller] https://studio.code.org/projects/gamelab/S_AQSIWg7RwhS1eT-4mDxyP33k8OVBX_SwsLIBYip7A
 
-In this project, my partner and I made a side scroller game in which you play as a kid who has to eat hamburgers and avoid broccoli to not loose health
+In this project, my partner and I made a side scroller game in which you play as a kid who has to eat hamburgers and avoid broccoli to not lose health
+
+[flyer game] https://studio.code.org/projects/gamelab/vJQBSpuloCwY_WN9KLQpT8vSvDnbohUp0o1wXpX4tpI
+
+In this project, my partner and I made a flappy bird-like game in which you have to avoid 4 different kinds of rocks and collect coins to reach 15 points to win 
