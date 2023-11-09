@@ -23,4 +23,8 @@ In this project, my partner and I made a recreation of a scene from King Kong
 
 [Interactive Card] https://studio.code.org/projects/gamelab/hOqJlHvu19JB0EoJimcqzJYYKmFJ2CJcpIjeAc-Z-6I
 
-In this project, my partner and I made a birthday card which when you press space it will open the door
+In this project, my partner and I made a birthday card that when you press space will open the door
+
+[side scroller] https://studio.code.org/projects/gamelab/S_AQSIWg7RwhS1eT-4mDxyP33k8OVBX_SwsLIBYip7A
+
+In this project, my partner and I made a side scroller game in which you play as a kid who has to eat hamburgers and avoid broccoli to not loose health
