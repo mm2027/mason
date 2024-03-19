@@ -37,6 +37,6 @@ In this project, my partner and I made a flappy bird-like game in which you have
 
 In this project, my partner and I made a platformer game in which you have to jump on the platforms in order to survive
 
-[final game project]
+[final game project] https://studio.code.org/projects/gamelab/IpTwTiNRSv5ouFmwwJfHYtBpKoIM5NhkCot-5o0OosU
 
-In This Project, I made a tennis game
+In This Project, I made a 2 player tennis game in which you either a man or a monkey
