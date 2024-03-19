@@ -32,3 +32,11 @@ In this project, my partner and I made a side scroller game in which you play as
 [flyer game] https://studio.code.org/projects/gamelab/vJQBSpuloCwY_WN9KLQpT8vSvDnbohUp0o1wXpX4tpI
 
 In this project, my partner and I made a flappy bird-like game in which you have to avoid 4 different kinds of rocks and collect coins to reach 15 points to win 
+
+[platformer game] https://studio.code.org/projects/gamelab/iM5UqniNS7bKFn8vsiIuMKva477B635OaT2zu4TUClM
+
+In this project, my partner and I made a platformer game in which you have to jump on the platforms in order to survive
+
+[final game project]
+
+In This Project, I made a tennis game
