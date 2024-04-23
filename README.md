@@ -39,7 +39,7 @@ In this project, my partner and I made a platformer game in which you have to ju
 
 [final game project] https://studio.code.org/projects/gamelab/IpTwTiNRSv5ouFmwwJfHYtBpKoIM5NhkCot-5o0OosU
 
-In This Project, I made a 2 player tennis game in which you either a man or a monkey
+In This Project, I made a 2 player tennis game in which your either a man or a monkey
 
 ### CMU Python
 [Creative Task 1] https://academy.cs.cmu.edu/sharing/saddleBrownSquirrel8946
@@ -47,7 +47,7 @@ In this project, I made an IPhone 6 that has all the buttons
 
 [Creative Task 2]  https://academy.cs.cmu.edu/sharing/tomatoCat1384
 
-In this project, me and y partner made a cave that has an urchin that expands every time you click
+In this project, me and my partner made a cave that has an urchin that expands every time you click
 
 [Creative Task 3] https://academy.cs.cmu.edu/sharing/honeydewElephant3107
 
