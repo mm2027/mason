@@ -40,6 +40,26 @@ In this project, my partner and I made a platformer game in which you have to ju
 [final game project] https://studio.code.org/projects/gamelab/IpTwTiNRSv5ouFmwwJfHYtBpKoIM5NhkCot-5o0OosU
 
 In This Project, I made a 2 player tennis game in which your either a man or a monkey
+### AI App Inventor
+[hello_its_you] https://ai2.appinventor.mit.edu/#4593486705590272
+
+In This Project, I made a man that says hi
+
+[MyPiano] https://ai2.appinventor.mit.edu/#5093882767212544
+
+In This Project, I made a piano
+
+[Music Maker] https://ai2.appinventor.mit.edu/#6169005054099456
+
+In This Project, I made a sound board
+
+[Find the Gold] https://ai2.appinventor.mit.edu/#5685272467341312
+
+In This Project, I made a maze
+
+[Food Chase] https://ai2.appinventor.mit.edu/#5092917378940928
+
+In This Project, I made food chase each other
 
 ### CMU Python
 [Creative Task 1] https://academy.cs.cmu.edu/sharing/saddleBrownSquirrel8946
