@@ -57,6 +57,6 @@ In this project, me and my partner made a strange house that had flowers that mo
 
 In this project, me and my partner made a trivia game that has two questions about history
 
-[Creative Task 5]
+[Creative Task 5] https://academy.cs.cmu.edu/exercise/4314/
 
 In this project, me and my partner made a ferris wheel that spins around the wheel, there is also a sun that moves also
